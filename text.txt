@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name - Mind & Body Therapist</title>
+    <title> berntherapy - Mind & Body Therapist</title>
     <style>
         body {
             font-family: 'Arial', sans-serif;
@@ -38,7 +38,7 @@
 <body>
 
     <header>
-        <h1>Your Name</h1>
+        <h1>berntherapy</h1>
         <p>Mind & Body Therapist | Stretching Profi | Gluten-Free Enthusiast</p>
     </header>
 
@@ -58,7 +58,7 @@
     </section>
 
     <footer>
-        <p>Contact: your@email.com | Follow me on social media: @yourhandle</p>
+        <p>Contact: vienchkovskaia.nadiia@gmail.com | Follow me on social media: @https://www.instagram.com/berntherapy/</p>
     </footer>
 
 </body>
