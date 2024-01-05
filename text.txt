@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Mind & Body Therapist</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: beige;
+            color: black;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: pink;
+            padding: 20px;
+            text-align: center;
+        }
+
+        section {
+            margin: 20px;
+            padding: 20px;
+        }
+
+        footer {
+            background-color: grey;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Your Name</h1>
+        <p>Mind & Body Therapist | Stretching Profi | Gluten-Free Enthusiast</p>
+    </header>
+
+    <section id="mindBodyTherapy">
+        <h2>Mind & Body Therapy</h2>
+        <p>Welcome to a journey of self-discovery and well-being. Explore the harmony of mind and body through therapeutic practices tailored just for you.</p>
+    </section>
+
+    <section id="stretchingProgram">
+        <h2>Stretching Program</h2>
+        <p>Improve your flexibility and enhance your physical well-being with our personalized stretching programs. Embrace the benefits of a more flexible and agile body.</p>
+    </section>
+
+    <section id="glutenFreeRecipes">
+        <h2>Gluten-Free Recipes</h2>
+        <p>Indulge in delicious and nutritious gluten-free recipes that cater to both your taste buds and your well-being. Discover a world of flavorful and wholesome options.</p>
+    </section>
+
+    <footer>
+        <p>Contact: your@email.com | Follow me on social media: @yourhandle</p>
+    </footer>
+
+</body>
+</html>
